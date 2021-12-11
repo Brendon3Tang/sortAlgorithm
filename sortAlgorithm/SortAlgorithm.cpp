@@ -22,7 +22,7 @@ void bubbleSort(int arr[], int n)
 	}
 }
 
-//选择排序：在未排序的元素中搜寻最小值，然后将该元素放在已排序的元素中的末尾。
+/*选择排序：在未排序的元素中搜寻最小值，然后将该元素放在已排序的元素中的末尾。*/
 void selectionSort(int arr[], int n)
 {
 	int minIndex = 0;
